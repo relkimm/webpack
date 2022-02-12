@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,WAAW;AACb","sources":["webpack://code-splitting/./base.css"],"sourcesContent":["p {\r\n  color: blue;\r\n}\r\n"],"names":[],"sourceRoot":""}
